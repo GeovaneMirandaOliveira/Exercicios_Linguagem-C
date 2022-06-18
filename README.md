@@ -1,2 +1,2 @@
 # Linguagem-C
- Exercicios da Faculdade Linguagem C
+ Exercicios de Linguagem C
